@@ -2,5 +2,5 @@
 export const MAX_TOKENS = 8192;
 
 // Increased segment limit to allow for larger, chained model responses
-export const MAX_RESPONSE_SEGMENTS = 20; 
+export const MAX_RESPONSE_SEGMENTS = 40; 
 
